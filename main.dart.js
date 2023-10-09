@@ -17284,8 +17284,7 @@ _.b=b
 _.c=c
 _.d=d},
 a2b:function a2b(){},
-a2c:function a2c(a,b){this.a=a
-this.b=b},
+a2c:function a2c(a){this.a=a},
 a29:function a29(a){this.a=a},
 a2d:function a2d(a){this.a=a},
 a28:function a28(){},
@@ -52545,18 +52544,18 @@ r!==$&&A.aN()
 r=this.d=new A.C6(null,$,$,$,$,s)}return r},
 b4(){this.bs()},
 t(){this.be()},
-N(a){var s,r,q,p,o,n=this,m=null,l=a.a_(t.w).f.a,k=t.nV.a(A.bB(a).c.i(0,A.b2(t.jb)))
-k.toString
+N(a){var s,r,q,p,o=this,n=null,m=a.a_(t.w).f,l=t.nV.a(A.bB(a).c.i(0,A.b2(t.jb)))
+l.toString
 s=A.bB(a)
 r=A.ET(a)
-s=A.TG(new A.a2a(n,s.RG,r,k))
+s=A.TG(new A.a2a(o,s.RG,r,l))
 q=r.x
 q===$&&A.h()
-k=A.RS(!1,!0,A.eh(B.k0,A.aa6(B.BA,k.e,q),B.p,m,m,m,m,m,m,m,m,m,l.a*0.15),m,!0,m,m,m,m,m,m,m,m,m,new A.a2b(),m)
-p=r.w
-p===$&&A.h()
-o=t.D
-return new A.up(A.oA(B.cy,A.a([A.qA(A.a([new A.EY(s,k,m),A.a9W(new A.ip(new A.aU(q,q,q,p*2),A.qA(A.a([A.a9W(new A.hU(B.an,m,m,A.TG(new A.a2c(n,l)),m)),A.hy(m,p,m),A.TG(new A.a2d(n))],o),B.aB,B.qS,B.aI),m))],o),B.aB,B.f7,B.aI),A.TG(new A.a2e(n))],o),B.U,B.bF),m)}}
+m=A.RS(!1,!0,A.eh(B.k0,A.aa6(B.BA,l.e,q),B.p,n,n,n,n,n,n,n,n,n,m.a.a*0.15),n,!0,n,n,n,n,n,n,n,n,n,new A.a2b(),n)
+l=r.w
+l===$&&A.h()
+p=t.D
+return new A.up(A.oA(B.cy,A.a([A.qA(A.a([new A.EY(s,m,n),A.a9W(new A.ip(new A.aU(q,q,q,l*2),A.qA(A.a([A.a9W(new A.hU(B.an,n,n,A.TG(new A.a2c(o)),n)),A.hy(n,l,n),A.TG(new A.a2d(o))],p),B.aB,B.qS,B.aI),n))],p),B.aB,B.f7,B.aI),A.TG(new A.a2e(o))],p),B.U,B.bF),n)}}
 A.a2a.prototype={
 $1(a){var s=this.a,r=s.a.c.gx3()
 r.a.cP(r)
@@ -52571,7 +52570,7 @@ $S:0}
 A.a2c.prototype={
 $1(a){var s=this.a,r=s.a.c,q=r.gj8()
 q.a.cP(q)
-return new A.oE(new A.a29(s),this.b.a*0.35,r.b,null)},
+return new A.oE(new A.a29(s),175,r.b,null)},
 $S:317}
 A.a29.prototype={
 $0(){var s=this.a
@@ -52861,7 +52860,7 @@ l=g.a
 k=l*0.1
 j=f.as.a
 j=A.a([new A.bH(-6,B.D,A.ax(51,j>>>16&255,j>>>8&255,j&255),new A.z(0,10),8)],t.xq)
-f=A.RS(!1,!0,A.eh(i,new A.hU(B.uX,i,i,A.Zk("assets/icons/core/back.svg",!0,f.e,i,i),i),B.p,i,i,i,i,i,i,i,i,i,l*0.15),i,!0,i,i,i,i,i,i,i,i,i,i,i)
+f=A.RS(!1,!0,A.eh(i,new A.hU(B.uX,i,i,A.Zk("assets/icons/back.svg",!0,f.e,i,i),i),B.p,i,i,i,i,i,i,i,i,i,l*0.15),i,!0,i,i,i,i,i,i,i,i,i,i,i)
 f=A.a([f,this.f,this.r],h)
 p.push(A.aa2(A.a96(B.cy,A.qA(A.a([n,A.eh(i,A.eh(i,A.VU(f,B.aB,B.qS,B.aI),B.p,i,i,i,i,i,i,i,i,i,i),B.p,i,new A.aL(0,1/0,80,1/0),new A.dX(m,i,i,new A.ch(B.A,B.A,new A.bz(k,k),new A.bz(k,k)),j,i,B.ai),i,g.b*0.1,i,new A.aU(r,r,r,r),i,i,i)],h),B.aB,B.f7,B.f8),B.ac,o,1),"TopBarWidget"))
 return A.oA(B.bN,p,B.U,B.bF)}}
