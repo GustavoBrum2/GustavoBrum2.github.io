@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1684883623';
+    var serviceWorkerVersion = '2517502048';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -43,21 +43,9 @@
 
 <body>
   <script>
-    window.addEventListener('load', function (ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        }
-      }).then(function (engineInitializer) {
-        return engineInitializer.initializeEngine();
-      }).then(function (appRunner) {
-        return appRunner.runApp();
-      });
-      window.addEventListener('beforeinstallprompt', function (e) {
-        e.preventDefault();
-        return false;
-      });
+    window.addEventListener('beforeinstallprompt', function (e) {
+      e.preventDefault();
+      return false;
     });
   </script>
 </body>
