@@ -43,10 +43,21 @@
 
 <body>
   <script>
-
-    window.addEventListener('beforeinstallprompt', function (e) {
-      e.preventDefault();
-      return false;
+    window.addEventListener('load', function (ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        }
+      }).then(function (engineInitializer) {
+        return engineInitializer.initializeEngine();
+      }).then(function (appRunner) {
+        return appRunner.runApp();
+      });
+      window.addEventListener('beforeinstallprompt', function (e) {
+        e.preventDefault();
+        return false;
+      });
     });
   </script>
 </body>
