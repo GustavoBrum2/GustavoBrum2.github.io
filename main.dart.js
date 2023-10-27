@@ -62099,7 +62099,7 @@ if(n===q){s=q.c.$0()
 if(q.b!==q)A.U(new A.hg("Local '"+q.a+u.m))
 q.b=s
 n=s}n=A.oz(A.ahJ(o,A.bm(r,new A.wl(n,r),B.k,r,new A.aG(332,1/0,718,1/0),r,r,718,r,r,r,r,332)),r,r)
-return A.bm(r,A.jM(B.aW,A.a([n,A.oz(new A.f7(!0,r,A.bm(r,new A.v4(A.asO(r,r,new A.tq("icons/iphone_15.png",r,r)),B.xa,r),B.k,r,new A.aG(360,1/0,740,1/0),r,r,740,r,r,r,r,360),r),r,r)],t.p),B.D,B.aP),B.k,r,new A.aG(360,1/0,740,1/0),new A.c7(B.S,r,r,p,r,r,B.I),r,r,r,r,r,r,r)}}
+return A.bm(r,A.jM(B.aW,A.a([n,A.oz(new A.f7(!0,r,A.bm(r,new A.v4(A.asO(r,r,new A.tq("assets/icons/iphone_15.png",r,r)),B.xa,r),B.k,r,new A.aG(360,1/0,740,1/0),r,r,740,r,r,r,r,360),r),r,r)],t.p),B.D,B.aP),B.k,r,new A.aG(360,1/0,740,1/0),new A.c7(B.S,r,r,p,r,r,B.I),r,r,r,r,r,r,r)}}
 A.Xp.prototype={
 $0(){return new A.pQ($,$,$,$,$,$,$)},
 $S:370}
