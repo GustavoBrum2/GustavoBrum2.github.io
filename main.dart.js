@@ -62921,7 +62921,7 @@ a0=A.ajO(B.mr,new A.eb(B.aL,new A.cr(new A.j(g),1,B.a2,B.N)),new A.eb(B.aL,new A
 return new A.vU(B.Is,"Mono Page",b,A.agK(new A.j(f),B.a9,a7,new A.j(f),new A.j(e),A.afC(o,o,B.aa,o,o,o,B.rY).xu(B.a9,B.h),new A.j(e),A.a([new A.h5(A.a([new A.bX(0,B.L,A.a8(10,0,0,0),new A.n(0,2),10),new A.bX(0,B.L,A.a8(5,0,0,0),new A.n(0,4),12),new A.bX(0,B.L,A.a8(5,0,0,0),B.i,6)],b1),A.a([new A.bX(0,B.L,A.a8(20,255,255,255),new A.n(0,0),12),new A.bX(0,B.L,A.a8(31,255,255,255),new A.n(0,4),10),new A.bX(-1,B.L,A.a8(61,255,255,255),new A.n(0,2),6)],b1),A.a([new A.bX(0,B.L,A.a8(31,255,167,38),new A.n(0,0),12),new A.bX(0,B.L,A.a8(41,255,167,38),new A.n(0,4),16),new A.bX(-2,B.L,A.a8(143,255,167,38),new A.n(0,0),6)],b1)),A.afo(new A.j(f),new A.j(4285445887),new A.j(4282400832),new A.j(e),new A.j(c),A.a8(64,0,0,0),new A.j(c),new A.j(4284437838),new A.j(4285464502),new A.j(4289703855),new A.j(h),new A.j(g),new A.j(d),B.h,A.a8(a3,0,0,0),new A.j(4281149477),new A.j(h),A.a8(64,255,255,255))],a2),"Mulish",B.U,new A.j(n),a0,new A.j(g),new A.nm(new A.j(g),o,o,o,o),new A.j(f),new A.nG(B.a7,o,o,o,o,o,B.kl),B.U,s,o,a8),!1,o)}}
 A.Fi.prototype={
 G(a){var s=null,r=A.aka(),q=A.db(100),p=A.ml(A.aja(B.wx,A.aU(s,new A.w4(r,s),B.j,s,B.wJ,s,s,718,s,s,s,s,332)),s,s)
-return A.aU(s,A.et(B.ar,A.a([p,A.ml(new A.fB(!0,s,A.aU(s,new A.va(A.aug(s,s,new A.tB("iphone_15.png",s,s)),B.wO,s),B.j,s,B.l9,s,s,740,s,s,s,s,360),s),s,s)],t.p),B.D,B.ab),B.j,s,B.l9,new A.bp(B.U,s,s,q,s,s,B.A),s,s,s,s,s,s,s)}}
+return A.aU(s,A.et(B.ar,A.a([p,A.ml(new A.fB(!0,s,A.aU(s,new A.va(A.aug(s,s,new A.tB("assets/iphone_15.png",s,s)),B.wO,s),B.j,s,B.l9,s,s,740,s,s,s,s,360),s),s,s)],t.p),B.D,B.ab),B.j,s,B.l9,new A.bp(B.U,s,s,q,s,s,B.A),s,s,s,s,s,s,s)}}
 A.w4.prototype={
 aa(){return new A.MF(B.l)}}
 A.MF.prototype={
