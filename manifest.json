@@ -1,6 +1,6 @@
 {
-    "name": "output",
-    "short_name": "output",
+    "name": "mono_page",
+    "short_name": "mono_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
