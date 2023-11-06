@@ -1,6 +1,6 @@
 {
-    "name": "mono_page",
-    "short_name": "mono_page",
+    "name": "heating_page",
+    "short_name": "heating_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
